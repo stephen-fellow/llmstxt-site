@@ -1,7 +1,7 @@
 import {
   Table,
   TableBody,
-  TableCaption,
+  // TableCaption,  
   TableCell,
   TableHead,
   TableHeader,
@@ -10,7 +10,7 @@ import {
 
 import useSiteStore from "@/lib/store";
 export default function ListTable() {
-  const products = useSiteStore((state) => state.getProducts(""));
+  const products = useSiteStore((state) => state.getProducts());
   return (
     <div className="w-full flex justify-center px-5 sm:px-20 pt-5">
       <Table className="mx-auto max-w-7xl">

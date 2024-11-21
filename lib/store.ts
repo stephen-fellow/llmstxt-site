@@ -9,7 +9,7 @@ type Product = {
 
 interface SiteState {
   products: Product[];
-  getProducts: (searchString: string) => Product[];
+  getProducts: () => Product[];
 }
 
 const useSiteStore = create<SiteState>()(
@@ -663,7 +663,7 @@ const useSiteStore = create<SiteState>()(
             },
           },
         ] as Product[],
-        getProducts: (searchString: string) => {
+        getProducts: () => {
           return get().products;
         },
       }),

@@ -1,5 +1,5 @@
 import localFont from "next/font/local";
-import Footer from "@/components/footer";
+// import Footer from "@/components/footer";
 import ListTable from "@/components/list-table";
 import Header from "@/components/header";
 const geistMono = localFont({
