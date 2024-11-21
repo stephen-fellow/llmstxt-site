@@ -7,7 +7,10 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+
+import useSiteStore from "@/lib/store";
 export default function ListTable() {
+  const sites = useSiteStore((state) => state.getSites(""));
   return (
     <Table>
       <TableCaption>A list of all llms.txt files location.</TableCaption>
@@ -18,18 +21,16 @@ export default function ListTable() {
         </TableRow>
       </TableHeader>
       <TableBody>
-        <TableRow>
-          <TableCell>DuckDB</TableCell>
-          <TableCell>
-            <a
-              href="https://duckdb.org/duckdb-docs.md"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              duckdb.org/duckdb-docs.md
-            </a>
-          </TableCell>
-        </TableRow>
+        {sites.map((site) => (
+          <TableRow key={site.name}>
+            <TableCell>{site.name}</TableCell>
+            <TableCell>
+              <a href={site.url} target="_blank" rel="noopener noreferrer">
+                {site.urlDisplay}
+              </a>
+            </TableCell>
+          </TableRow>
+        ))}
       </TableBody>
     </Table>
   );
