@@ -3,11 +3,13 @@ import { devtools, persist } from "zustand/middleware";
 
 import data from "../data.json";
 
-type Product = {
+export type Product = {
     product: string;
     website: string;
-    llmsTxt: Record<string, string>;
-    token_count: Record<string, number>;
+    "llms-full-txt": string;
+    "llms-full-txt-tokens": number;
+    "llms-txt": string;
+    "llms-txt-tokens": number;
 };
 
 interface SiteState {
