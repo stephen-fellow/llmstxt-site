@@ -1,5 +1,5 @@
 import localFont from "next/font/local";
-// import Footer from "@/components/footer";
+import Footer from "@/components/footer";
 import ListTable from "@/components/list-table";
 import Header from "@/components/header";
 import { columns } from "@/components/list-table-columns";
@@ -21,7 +21,7 @@ export default function Home() {
                 <Header />
                 <ListTable columns={columns} data={data} />
             </main>
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }
