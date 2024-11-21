@@ -1,5 +1,6 @@
 import { ColumnDef } from "@tanstack/react-table";
-
+import { ArrowUpDown } from "lucide-react";
+import { Button } from "@/components/ui/button";
 import type { Product } from "@/lib/store";
 // This type is used to define the shape of our data.
 // You can use a Zod schema here if you want.
@@ -13,7 +14,19 @@ export type Payment = {
 export const columns: ColumnDef<Product>[] = [
     {
         accessorKey: "product",
-        header: "Product",
+        header: ({ column }) => {
+            return (
+                <Button
+                    variant="ghost"
+                    onClick={() =>
+                        column.toggleSorting(column.getIsSorted() === "asc")
+                    }
+                >
+                    Product
+                    <ArrowUpDown className="ml-2 h-4 w-4" />
+                </Button>
+            );
+        },
     },
     {
         accessorKey: "website",
@@ -51,7 +64,19 @@ export const columns: ColumnDef<Product>[] = [
     },
     {
         accessorKey: "llms-txt-tokens",
-        header: "Tokens",
+        header: ({ column }) => {
+            return (
+                <Button
+                    variant="ghost"
+                    onClick={() =>
+                        column.toggleSorting(column.getIsSorted() === "asc")
+                    }
+                >
+                    -tokens
+                    <ArrowUpDown className="ml-2 h-4 w-4" />
+                </Button>
+            );
+        },
     },
     {
         accessorKey: "llms-full-txt",
@@ -72,6 +97,18 @@ export const columns: ColumnDef<Product>[] = [
     },
     {
         accessorKey: "llms-full-txt-tokens",
-        header: "Tokens",
+        header: ({ column }) => {
+            return (
+                <Button
+                    variant="ghost"
+                    onClick={() =>
+                        column.toggleSorting(column.getIsSorted() === "asc")
+                    }
+                >
+                    -tokens
+                    <ArrowUpDown className="ml-2 h-4 w-4" />
+                </Button>
+            );
+        },
     },
 ];
