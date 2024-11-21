@@ -11,9 +11,9 @@ const geistMono = localFont({
 export default function Home() {
   return (
     <div
-      className={`${geistMono.variable} grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-mono)]`}
+      className={`${geistMono.variable} min-h-screen flex flex-col items-center justify-items-center font-[family-name:var(--font-geist-mono)]`}
     >
-      <main className="flex flex-col w-full pt-40">
+      <main className="flex flex-col flex-grow w-full">
         <Header />
         <ListTable />
       </main>
