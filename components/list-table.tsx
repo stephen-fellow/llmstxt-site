@@ -10,7 +10,7 @@ import {
 
 import useSiteStore from "@/lib/store";
 export default function ListTable() {
-  const sites = useSiteStore((state) => state.getSites(""));
+  const products = useSiteStore((state) => state.getProducts(""));
   return (
     <div className="w-full flex justify-center px-5 sm:px-20 pt-5">
       <Table className="">
@@ -18,17 +18,35 @@ export default function ListTable() {
         <TableHeader>
           <TableRow className="text-lg font-bold">
             <TableHead>Name</TableHead>
+            <TableHead>llms-full.txt</TableHead>
             <TableHead>llms.txt</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
-          {sites.map((site) => (
-            <TableRow key={site.name}>
-              <TableCell>{site.name}</TableCell>
+          {products.map((product) => (
+            <TableRow key={product.product}>
+              <TableCell>{product.product}</TableCell>
               <TableCell>
-                <a href={site.url} target="_blank" rel="noopener noreferrer">
-                  {site.urlDisplay}
-                </a>
+                {product.llmsTxt["llms-full.txt"] && (
+                  <a
+                    href={product.llmsTxt["llms-full.txt"]}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    llms-full.txt
+                  </a>
+                )}
+              </TableCell>
+              <TableCell>
+                {product.llmsTxt["llms.txt"] && (
+                  <a
+                    href={product.llmsTxt["llms.txt"]}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    llms.txt
+                  </a>
+                )}
               </TableCell>
             </TableRow>
           ))}
