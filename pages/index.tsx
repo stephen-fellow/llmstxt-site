@@ -17,7 +17,7 @@ export default function Home() {
         <Header />
         <ListTable />
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
