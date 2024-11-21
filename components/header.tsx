@@ -5,8 +5,20 @@ export default function Header() {
     return (
         <div className="p-10 pb-10 bg-zinc-100">
             <h1 className="mb-5 text-4xl font-bold">llms.txt directory</h1>
-            <p className="mb-5 text-lg">
+            <p className="mb-1 text-lg">
                 A list if all the llms.txt based files location with some stats.
+            </p>
+            <p className="mb-5 text-lg">
+                The llms.txt is derived from the{" "}
+                <a
+                    href="https://llmstxt.org"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline underline-offset-4 hover:text-blue-500"
+                >
+                    llmstxt.org
+                </a>{" "}
+                standard.
             </p>
             <p className="text-sm mb-2">
                 Contribute to the repository below to add more locations.
