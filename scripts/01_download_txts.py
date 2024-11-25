@@ -5,7 +5,6 @@ import json
 
 dir = json.load(open("data_raw.json"))
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
-
 LLMSTXT_FILES_PATH = os.path.join(FILE_PATH, "llmstxt-files")
 
 # Create downloads directory if it doesn't exist
