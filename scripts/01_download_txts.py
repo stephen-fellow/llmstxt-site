@@ -3,7 +3,7 @@ import requests
 import os
 import json
 
-dir = json.load(open("data_raw.json"))
+data_raw = json.load(open("data_raw.json"))
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
 LLMSTXT_FILES_PATH = os.path.join(FILE_PATH, "llmstxt-files")
 
@@ -12,7 +12,7 @@ if not os.path.exists(LLMSTXT_FILES_PATH):
     os.makedirs(LLMSTXT_FILES_PATH)
 
 # Loop through each company
-for _product in tqdm(dir):
+for _product in tqdm(data_raw):
     product_name = _product["product"]
 
     # Create product directory
