@@ -654,5 +654,13 @@
         "llms-full-txt-tokens": 259459,
         "llms-txt": "https://docs.zapier.com/llms.txt",
         "llms-txt-tokens": 12926
+    },
+    {
+        "product": "CalendarScripts",
+        "website": "https://blog.calendarscripts.info/",
+        "llms-full-txt": null,
+        "llms-full-txt-tokens": 0,
+        "llms-txt": "https://blog.calendarscripts.info/llms.txt",
+        "llms-txt-tokens": 8661
     }
 ]
