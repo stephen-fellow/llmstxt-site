@@ -686,6 +686,21 @@
         "llms-full-txt-tokens": 0,
         "llms-txt": "https://www.trackingplan.com/llms.txt",
         "llms-txt-tokens": 4241
+    },
+    {
+        "product": "SkyDeck.ai",
+        "website": "https://docs.skydeck.ai/",
+        "llms-full-txt": "https://llm.skydeck.ai/llms-full.txt",
+        "llms-full-txt-tokens": 63550,
+        "llms-txt": "https://llm.skydeck.ai/llms.txt",
+        "llms-txt-tokens": 2970
+    },
+    {
+        "product": "Rememberizer",
+        "website": "https://docs.rememberizer.ai",
+        "llms-full-txt": "https://llm.rememberizer.ai/llms-full.txt",
+        "llms-full-txt-tokens": 39823,
+        "llms-txt": "https://llm.rememberizer.ai/llms.txt",
+        "llms-txt-tokens": 2025
     }
-    
 ]
