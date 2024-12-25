@@ -382,7 +382,7 @@
         "llms-txt-tokens": 158,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    },    
+    },
     {
         "product": "Loops",
         "website": "https://loops.so/",
@@ -406,7 +406,7 @@
         "llms-full-txt-tokens": 1602828,
         "llms-txt": "https://docs.mangopay.com/llms.txt",
         "llms-txt-tokens": 9955
-    },    
+    },
     {
         "product": "MeshConnect",
         "website": "https://meshconnect.com/",
@@ -682,26 +682,26 @@
     {
         "product": "CalendarScripts",
         "website": "https://blog.calendarscripts.info/",
-        "llms-full-txt": null,
-        "llms-full-txt-tokens": 0,
         "llms-txt": "https://blog.calendarscripts.info/llms.txt",
-        "llms-txt-tokens": 8661
+        "llms-txt-tokens": 8661,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "The Data Driven Marketer",
         "website": "https://datadrivenmarketer.me",
-        "llms-full-txt": null,
-        "llms-full-txt-tokens": 0,
         "llms-txt": "https://datadrivenmarketer.me/llms.txt",
-        "llms-txt-tokens": 304
+        "llms-txt-tokens": 304,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
-       {
+    {
         "product": "Trackingplan",
         "website": "https://www.trackingplan.com/",
-        "llms-full-txt": null,
-        "llms-full-txt-tokens": 0,
         "llms-txt": "https://www.trackingplan.com/llms.txt",
-        "llms-txt-tokens": 4241
+        "llms-txt-tokens": 4241,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "SkyDeck.ai",

@@ -7,7 +7,7 @@ import { columns } from "@/components/list-table-columns";
 import useSiteStore from "@/lib/store";
 
 const geistMono = localFont({
-    src: "./fonts/GeistMonoVF.woff",
+    src: "../fonts/GeistMonoVF.woff",
     variable: "--font-geist-mono",
     weight: "100 900",
 });
