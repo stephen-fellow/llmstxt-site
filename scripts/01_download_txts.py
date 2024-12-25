@@ -3,9 +3,14 @@ import requests
 import os
 import json
 
-data_raw = json.load(open("data_raw.json"))
+# ./scripts
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
+# ./scripts/llmstxt-files
 LLMSTXT_FILES_PATH = os.path.join(FILE_PATH, "llmstxt-files")
+# ./data.json
+DATA_RAW_PATH = os.path.join(os.path.dirname(FILE_PATH), "data.json")
+
+data_raw = json.load(open(DATA_RAW_PATH))
 
 # Create downloads directory if it doesn't exist
 if not os.path.exists(LLMSTXT_FILES_PATH):

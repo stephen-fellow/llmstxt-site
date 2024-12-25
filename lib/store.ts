@@ -1,7 +1,7 @@
 import { create } from "zustand";
 import { devtools, persist } from "zustand/middleware";
 
-import data from "../data.json";
+import data from "./products_data.json";
 
 export type Product = {
     product: string;
