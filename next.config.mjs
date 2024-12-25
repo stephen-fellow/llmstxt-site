@@ -3,7 +3,7 @@ import redirects from "./redirects.json" assert { type: "json" };
 
 const nextConfig = {
     reactStrictMode: true,
-    output: "export",
+    // output: "export",
 
     async redirects() {
         return redirects;
