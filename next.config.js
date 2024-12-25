@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-import redirects from "./redirects.json" assert { type: "json" };
+const redirects = require("./redirects.json");
 
 const nextConfig = {
     reactStrictMode: true,
@@ -10,4 +10,4 @@ const nextConfig = {
     },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
