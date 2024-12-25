@@ -1,9 +1,5 @@
-import json
-
-data = json.load(open("data_raw.json"))
-
-redirects = []
-for product in data:
+def create_product_redirects(product: dict):
+    redirects = []
     source_path = product["product"].lower().replace(" ", "-").replace(".", "-")
     destination_path = "#"
     if product["llms-full-txt"]:
@@ -12,7 +8,7 @@ for product in data:
         destination_path = product["llms-txt"]
     else:
         print(f"No destination path for {product['product']}")
-        continue
+        return redirects
 
     redirects.append(
         {
@@ -40,6 +36,4 @@ for product in data:
             }
         )
 
-
-with open("redirects.json", "w") as f:
-    json.dump({"redirects": redirects}, f, indent=4)
+    return redirects
