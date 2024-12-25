@@ -5,17 +5,17 @@ from create_product_json import create_product_json
 from create_product_redirects import create_product_redirects
 
 # ./scripts
-FILE_PATH = os.path.dirname(os.path.abspath(__file__))
+SCRIPTS_PATH = os.path.dirname(os.path.abspath(__file__))
 # ./scripts/llmstxt-files
-LLMSTXT_FILES_PATH = os.path.join(FILE_PATH, "llmstxt-files")
+LLMSTXT_FILES_PATH = os.path.join(SCRIPTS_PATH, "llmstxt-files")
 if not os.path.exists(LLMSTXT_FILES_PATH):
     os.makedirs(LLMSTXT_FILES_PATH)
 # ./scripts/run-assets
-RUN_ASSETS_PATH = os.path.join(FILE_PATH, "run-assets")
+RUN_ASSETS_PATH = os.path.join(SCRIPTS_PATH, "run-assets")
 if not os.path.exists(RUN_ASSETS_PATH):
     os.makedirs(RUN_ASSETS_PATH)
 # ./data.json
-DATA_RAW_PATH = os.path.join(os.path.dirname(FILE_PATH), "data.json")
+DATA_RAW_PATH = os.path.join(os.path.dirname(SCRIPTS_PATH), "data.json")
 
 data_raw = json.load(open(DATA_RAW_PATH))
 
@@ -54,3 +54,42 @@ for product in tqdm(data_raw):
     with open(status_path, "a", encoding="utf-8") as f:
         json.dump(status, f)
         f.write("\n")
+
+
+# Path to products.jsonl and redirects.jsonl in run-assets folder
+PRODUCTS_JSONL_PATH = os.path.join(RUN_ASSETS_PATH, "products.jsonl")
+REDIRECTS_JSONL_PATH = os.path.join(RUN_ASSETS_PATH, "redirects.jsonl")
+
+# Path to lib folder (one level up from scripts)
+LIB_PATH = os.path.join(os.path.dirname(SCRIPTS_PATH), "lib")
+ROOT_PATH = os.path.dirname(SCRIPTS_PATH)
+
+# Read products.jsonl line by line
+products_data = []
+with open(PRODUCTS_JSONL_PATH, "r", encoding="utf-8") as f:
+    for line in f:
+        if line.strip():  # Skip empty lines
+            _product = json.loads(line)
+            products_data.append(_product)
+
+# Write to product_data.json in lib folder
+product_data_path = os.path.join(LIB_PATH, "products_data.json")
+with open(product_data_path, "w", encoding="utf-8") as f:
+    json.dump(products_data, f)
+
+print(f"Created {product_data_path} with {len(products_data)} products")
+
+# Read redirects.jsonl line by line
+redirects_data = []
+with open(REDIRECTS_JSONL_PATH, "r", encoding="utf-8") as f:
+    for line in f:
+        if line.strip():  # Skip empty lines
+            _redirect = json.loads(line)
+            redirects_data.append(_redirect)
+
+# Write to redirects.json in root folder
+redirects_path = os.path.join(ROOT_PATH, "redirects.json")
+with open(redirects_path, "w", encoding="utf-8") as f:
+    json.dump(redirects_data, f)
+
+print(f"Created {redirects_path} with {len(redirects_data)} redirects")

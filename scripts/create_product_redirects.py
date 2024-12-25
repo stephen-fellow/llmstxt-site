@@ -14,6 +14,7 @@ def create_product_redirects(product: dict):
         {
             "source": f"/{source_path}",
             "destination": destination_path,
+            "basePath": False,
             "permanent": True,
         }
     )
@@ -23,6 +24,7 @@ def create_product_redirects(product: dict):
             {
                 "source": f"/{source_path}/llms-full.txt",
                 "destination": product["llms-full-txt"],
+                "basePath": False,
                 "permanent": True,
             }
         )
@@ -32,6 +34,7 @@ def create_product_redirects(product: dict):
             {
                 "source": f"/{source_path}/llms.txt",
                 "destination": product["llms-txt"],
+                "basePath": False,
                 "permanent": True,
             }
         )
