@@ -719,4 +719,12 @@
         "llms-txt": "https://llm.rememberizer.ai/llms.txt",
         "llms-txt-tokens": 2025
     }
+    {
+        "product": "Webrecorder",
+        "website": "https://webrecorder.net/",
+        "llms-txt": "https://webrecorder.net/llms.txt",
+        "llms-txt-tokens": 944,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
 ]
