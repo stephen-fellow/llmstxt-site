@@ -2,6 +2,8 @@
 
 This is a centralized directory of all /llms.txt files available online. The /llms.txt file is a proposed standard for websites to provide concise and structured information to help large language models (LLMs) efficiently use website content during inference time.
 
+**Contributions are the backbone of this repository’s success. Let’s work together to build a comprehensive resource for /llms.txt files and advance the adoption of this standard for LLM-friendly content!**
+
 ## Purpose
 
 The purpose of this project is to:
@@ -40,5 +42,3 @@ Here is an example entry:
 ```
 
 3. Submit a Pull Request (PR) with your changes. Please include a small description of the changes and ensure all the entries are accurate and follow the format provided.
-
-**Contributions are the backbone of this repository’s success. Let’s work together to build a comprehensive resource for /llms.txt files and advance the adoption of this standard for LLM-friendly content!**
