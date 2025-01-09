@@ -440,6 +440,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "Mystery-o-matic",
+        "website": "https://mystery-o-matic.com/",
+        "llms-txt": "https://mystery-o-matic.com/llms.txt",
+        "llms-txt-tokens": 1534,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "OpenPhone",
         "website": "https://openphone.com/",
         "llms-txt": "https://www.openphone.com/docs/llms.txt",
@@ -518,6 +526,14 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://raincamp.ai/llms.txt",
         "llms-txt-tokens": 4
+    },
+    {
+        "product": "RainbowKit",
+        "website": "https://rainbowkit.com/",
+        "llms-full-txt": "https://rainbowkit.com/llms-full.txt",
+        "llms-full-txt-tokens": 261091,
+        "llms-txt": "https://rainbowkit.com/llms.txt",
+        "llms-txt-tokens": 660
     },
     {
         "product": "Resend",
@@ -718,7 +734,7 @@
         "llms-full-txt-tokens": 39823,
         "llms-txt": "https://llm.rememberizer.ai/llms.txt",
         "llms-txt-tokens": 2025
-    }
+    },
     {
         "product": "Webrecorder",
         "website": "https://webrecorder.net/",
@@ -727,4 +743,12 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
+    {
+        "product": "TheirStack",
+        "website": "https://theirstack.com",
+        "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 6215,
+        "llms-txt": "https://theirstack.com/docs/llms.txt",
+        "llms-txt-tokens": 83
+    }
 ]
