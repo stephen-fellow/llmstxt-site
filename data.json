@@ -440,6 +440,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "Mystery-o-matic",
+        "website": "https://mystery-o-matic.com/",
+        "llms-txt": "https://mystery-o-matic.com/llms.txt",
+        "llms-txt-tokens": 1534,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "OpenPhone",
         "website": "https://openphone.com/",
         "llms-txt": "https://www.openphone.com/docs/llms.txt",
