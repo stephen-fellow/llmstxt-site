@@ -736,11 +736,19 @@
         "llms-txt-tokens": 2025
     },
     {
+        "product": "Webrecorder",
+        "website": "https://webrecorder.net/",
+        "llms-txt": "https://webrecorder.net/llms.txt",
+        "llms-txt-tokens": 944,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "TheirStack",
         "website": "https://theirstack.com",
         "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
         "llms-full-txt-tokens": 6215,
         "llms-txt": "https://theirstack.com/docs/llms.txt",
         "llms-txt-tokens": 83
-    },
+    }
 ]
