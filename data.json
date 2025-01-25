@@ -806,5 +806,13 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://emailgic.com/llms.txt",
         "llms-txt-tokens": 90733
+    },
+    {
+        "product": "DeployHQ",
+        "website": "https://www.deployhq.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.deployhq.com/llms.txt",
+        "llms-txt-tokens": 742
     }
 ]
