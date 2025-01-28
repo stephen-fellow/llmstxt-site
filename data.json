@@ -32,6 +32,22 @@
         "llms-txt-tokens": 159282
     },
     {
+        "product": "Apify",
+        "website": "https://apify.com/",
+        "llms-txt": "https://apify.com/llms.txt",
+        "llms-txt-tokens": 1764,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Apify Documentation",
+        "website": "https://docs.apify.com/",
+        "llms-txt": "https://docs.apify.com/llms.txt",
+        "llms-txt-tokens": 1038,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Aporia",
         "website": "https://aporia.com/",
         "llms-txt": "https://gr-docs.aporia.com/llms.txt",
