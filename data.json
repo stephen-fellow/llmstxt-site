@@ -727,6 +727,14 @@
         "llms-txt": "https://upstash.com/docs/llms.txt",
         "llms-txt-tokens": 24181
     },
+    { 
+        "product": "Upsun", 
+        "website": "https://docs.upsun.com/", 
+        "llms-full-txt": "https://docs.upsun.com/llms-full.txt", 
+        "llms-full-txt-tokens": 528795,
+        "llms-txt": "https://docs.upsun.com/llms.txt", 
+        "llms-txt-tokens": 24430
+    },
     {
         "product": "Velt",
         "website": "https://velt.dev/",
