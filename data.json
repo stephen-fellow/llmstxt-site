@@ -400,6 +400,14 @@
         "llms-txt-tokens": 8663
     },
     {
+        "product": "Liam ERD",
+        "website": "https://liambx.com/",
+        "llms-txt": "",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 8831
+    },
+    {
         "product": "Langfuse",
         "website": "https://langfuse.com/",
         "llms-txt": "https://langfuse.com/llms.txt",
