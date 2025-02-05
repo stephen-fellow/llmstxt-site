@@ -34,16 +34,8 @@
     {
         "product": "Apify",
         "website": "https://apify.com/",
-        "llms-txt": "https://apify.com/llms.txt",
-        "llms-txt-tokens": 1764,
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": null
-    },
-    {
-        "product": "Apify Documentation",
-        "website": "https://docs.apify.com/",
         "llms-txt": "https://docs.apify.com/llms.txt",
-        "llms-txt-tokens": 1038,
+        "llms-txt-tokens": 2503,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
