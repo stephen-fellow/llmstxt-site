@@ -862,5 +862,13 @@
         "llms-full-txt-tokens": 4731,
         "llms-txt": "https://manifest.ly/llms.txt",
         "llms-txt-tokens": 598
+    },
+    {
+        "product": "Medusa",
+        "website": "https://docs.medusajs.com/v1",
+        "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.medusajs.com/llms.txt",
+        "llms-txt-tokens": null
     }
 ]
