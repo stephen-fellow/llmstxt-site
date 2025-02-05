@@ -862,5 +862,13 @@
         "llms-full-txt-tokens": 4731,
         "llms-txt": "https://manifest.ly/llms.txt",
         "llms-txt-tokens": 598
+    },
+    {
+        "product": "Expo",
+        "website": "https://expo.dev/",
+        "llms-full-txt": "https://docs.expo.dev/llms-full.txt",
+        "llms-full-txt-tokens": 325871,
+        "llms-txt": "https://docs.expo.dev/llms.txt",
+        "llms-txt-tokens": 15310
     }
 ]
