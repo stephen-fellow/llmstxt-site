@@ -672,6 +672,14 @@
         "llms-txt-tokens": 3109
     },
     {
+        "product": "Tiptap",
+        "website": "https://tiptap.dev/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://tiptap.dev/llms.txt",
+        "llms-txt-tokens": 12214
+    },
+    {
         "product": "Trail of Bits",
         "website": "https://www.trailofbits.com",
         "llms-full-txt": "https://www.trailofbits.com/llms-full.txt",
