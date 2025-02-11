@@ -858,7 +858,7 @@
     {
 
         "product": "Medusa",
-        "website": "https://docs.medusajs.com/v1",
+        "website": "https://docs.medusajs.com",
         "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://docs.medusajs.com/llms.txt",
@@ -880,6 +880,11 @@
         "llms-full-txt-tokens": 151041,
         "llms-txt": "https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-api.txt",
         "llms-txt-tokens": 91292
-
+    },
+    {
+        "product": "ZenML",
+        "website": "https://www.zenml.io/",
+        "llms-full-txt": "https://www.zenml.io/llms-full.txt",
+        "llms-txt": "https://www.zenml.io/llms.txt"
     }
 ]
