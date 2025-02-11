@@ -1,4 +1,12 @@
 [
+   {
+        "product": "WordLift",
+        "website": "https://wordlift.io/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://wordlift.io/llms.txt",
+        "llms-txt-tokens": 649
+    },
     {
         "product": "Activepieces",
         "website": "https://activepieces.com/",
