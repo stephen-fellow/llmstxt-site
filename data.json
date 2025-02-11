@@ -858,7 +858,7 @@
     {
 
         "product": "Medusa",
-        "website": "https://docs.medusajs.com/v1",
+        "website": "https://docs.medusajs.com",
         "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://docs.medusajs.com/llms.txt",
