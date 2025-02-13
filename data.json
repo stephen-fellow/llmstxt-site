@@ -909,7 +909,6 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    }
     },    
     {
         "product": "Raycast",
