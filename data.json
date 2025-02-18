@@ -1,5 +1,13 @@
 [
    {
+        "product": "Azumuta",
+        "website": "https://www.azumuta.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.azumuta.com/llms.txt",
+        "llms-txt-tokens": ""
+   },
+   {
         "product": "WordLift",
         "website": "https://wordlift.io/",
         "llms-full-txt": "",
