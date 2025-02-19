@@ -1,5 +1,13 @@
 [
    {
+        "product": "Azumuta",
+        "website": "https://www.azumuta.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.azumuta.com/llms.txt",
+        "llms-txt-tokens": ""
+   },
+   {
         "product": "WordLift",
         "website": "https://wordlift.io/",
         "llms-full-txt": "",
@@ -416,6 +424,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Liveblocks",
+        "website": "https://liveblocks.io/",
+        "llms-full-txt": "https://liveblocks.io/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://liveblocks.io/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "llms.txt",
         "website": "https://llmstxt.org/",
         "llms-txt": "https://llmstxt.org/llms.txt",
@@ -446,6 +462,14 @@
         "llms-full-txt-tokens": 1602828,
         "llms-txt": "https://docs.mangopay.com/llms.txt",
         "llms-txt-tokens": 9955
+    },
+    {
+        "product": "Meilisearch",
+        "website": "https://www.meilisearch.com/",
+        "llms-full-txt": "https://www.meilisearch.com/llms-full.txt",
+        "llms-full-txt-tokens": "",
+        "llms-txt": "https://www.meilisearch.com/llms.txt",
+        "llms-txt-tokens": ""
     },
     {
         "product": "MeshConnect",
@@ -840,6 +864,13 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "WXT",
+        "website": "https://wxt.dev",
+        "llms-txt": "https://wxt.dev/knowledge/docs.txt",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "TheirStack",
         "website": "https://theirstack.com",
         "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
@@ -918,4 +949,18 @@
         "llms-txt": "https://www.agentdomain.xyz/llms.txt",
         "llms-txt-tokens": 329
     },
+    {
+        "product": "Pics.io",
+        "website": "https://pics.io/",
+        "llms-txt": "https://blog.pics.io/static/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Exemplar's AI Engineer's Handbook",
+        "website": "https://handbook.exemplar.dev",
+        "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
+        "llms-txt": "https://handbook.exemplar.dev/llms.txt",
+    }
 ]
