@@ -856,6 +856,13 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "WXT",
+        "website": "https://wxt.dev",
+        "llms-txt": "https://wxt.dev/knowledge/docs.txt",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "TheirStack",
         "website": "https://theirstack.com",
         "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
