@@ -941,10 +941,18 @@
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
     },
-   {
-    "product": "Exemplar's AI Engineer's Handbook",
-    "website": "https://handbook.exemplar.dev",
-    "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
-    "llms-txt": "https://handbook.exemplar.dev/llms.txt",
-   }
+    {
+        "product": "Pics.io",
+        "website": "https://pics.io/",
+        "llms-txt": "https://blog.pics.io/static/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Exemplar's AI Engineer's Handbook",
+        "website": "https://handbook.exemplar.dev",
+        "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
+        "llms-txt": "https://handbook.exemplar.dev/llms.txt",
+    }
 ]
