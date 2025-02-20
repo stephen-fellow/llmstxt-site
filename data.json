@@ -1,13 +1,13 @@
 [
-   {
+    {
         "product": "Azumuta",
         "website": "https://www.azumuta.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.azumuta.com/llms.txt",
         "llms-txt-tokens": ""
-   },
-   {
+    },
+    {
         "product": "WordLift",
         "website": "https://wordlift.io/",
         "llms-full-txt": "",
@@ -919,7 +919,6 @@
         "llms-txt-tokens": 598
     },
     {
-
         "product": "Medusa",
         "website": "https://docs.medusajs.com",
         "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
@@ -970,5 +969,11 @@
         "website": "https://handbook.exemplar.dev",
         "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
+    },
+    {
+        "product": "DataCamp",
+        "website": "https://www.datacamp.com",
+        "llms-txt": "https://www.datacamp.com/llms.txt",
+        "llms-txt-tokens": null
     }
 ]
