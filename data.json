@@ -970,5 +970,13 @@
         "website": "https://handbook.exemplar.dev",
         "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
+    },
+    {
+        "product": "East Agile",
+        "website": "https://www.eastagile.com",
+        "llms-txt": "https://www.eastagile.com/llms.txt",
+        "llms-txt-tokens": 919,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
