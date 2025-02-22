@@ -1,5 +1,13 @@
 [
    {
+        "product": "Bika.ai",
+        "website": "https://bika.ai/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://bika.ai/llms.txt",
+        "llms-txt-tokens": 541
+   },
+   {
         "product": "Azumuta",
         "website": "https://www.azumuta.com/",
         "llms-full-txt": "",
