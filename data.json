@@ -232,6 +232,14 @@
         "llms-txt-tokens": 77790
     },
     {
+        "product": "fagaf.com",
+        "website": "https://www.fagaf.com/",
+        "llms-txt": "https://www.fagaf.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "FastHTML",
         "website": "https://fastht.ml/",
         "llms-txt": "https://docs.fastht.ml/llms.txt",
