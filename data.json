@@ -970,5 +970,11 @@
         "website": "https://handbook.exemplar.dev",
         "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
+    },
+    {
+        "product": "Cloudflare Docs",
+        "website": "https://developers.cloudflare.com",
+        "llms-full-txt": "https://developers.cloudflare.com/llms-full.txt",
+        "llms-txt": "https://developers.cloudflare.com/llms.txt"
     }
 ]
