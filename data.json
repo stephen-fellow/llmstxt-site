@@ -248,6 +248,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Fireproof Database",
+        "website": "https://fireproof.storage/",
+        "llms-full-txt": "https://use-fireproof.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://use-fireproof.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Fireworks AI",
         "website": "https://fireworks.ai/",
         "llms-full-txt": "https://docs.fireworks.ai/llms-full.txt",
