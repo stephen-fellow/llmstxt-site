@@ -1019,6 +1019,12 @@
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
     },
     {
+        "product": "East Agile",
+        "website": "https://www.eastagile.com",
+        "llms-txt": "https://www.eastagile.com/llms.txt",
+        "llms-txt-tokens": 919,    
+    },
+    {
         "product": "Web3 Jobs",
         "website": "https://web3.career",
         "llms-txt": "https://web3.career/llms.txt",
@@ -1047,7 +1053,7 @@
         "product": "SeDigital",
         "website": "https://www.sedigital.es/",
         "llms-txt": "https://www.sedigital.es/llms.txt",
-        "llms-txt-tokens": "",
+        "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     }
