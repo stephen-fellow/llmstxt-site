@@ -696,6 +696,14 @@
         "llms-txt-tokens": 523
     },
     {
+        "product": "ServiceStack",
+        "website": "https://docs.servicestack.net/",
+        "llms-full-txt": "https://docs.servicestack.net/llms-full.txt",
+        "llms-full-txt-tokens": 1081008,
+        "llms-txt": "https://docs.servicestack.net/llms.txt",
+        "llms-txt-tokens": 15977
+    },
+    {
         "product": "Sherlock Domains",
         "website": "https://sherlockdomains.com/",
         "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
