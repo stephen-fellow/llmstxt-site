@@ -1019,6 +1019,14 @@
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
     },
     {
+        "product": "Web3 Jobs",
+        "website": "https://web3.career",
+        "llms-txt": "https://web3.career/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "DataCamp",
         "website": "https://www.datacamp.com",
         "llms-txt": "https://www.datacamp.com/llms.txt",
