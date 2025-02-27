@@ -104,6 +104,14 @@
         "llms-txt-tokens": 1654
     },
     {
+        "product": "Bucket",
+        "website": "https://bucket.co/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.bucket.co/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Clever Cloud",
         "website": "https://clever-cloud.com/",
         "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
@@ -230,6 +238,14 @@
         "llms-full-txt-tokens": 309219,
         "llms-txt": "https://developer.fabric.inc/llms.txt",
         "llms-txt-tokens": 77790
+    },
+    {
+        "product": "fagaf.com",
+        "website": "https://www.fagaf.com/",
+        "llms-txt": "https://www.fagaf.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "FastHTML",
@@ -972,9 +988,18 @@
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
     },
     {
+
         "product": "Cloudflare Docs",
         "website": "https://developers.cloudflare.com",
         "llms-full-txt": "https://developers.cloudflare.com/llms-full.txt",
         "llms-txt": "https://developers.cloudflare.com/llms.txt"
+    },
+    {
+        "product": "SeDigital",
+        "website": "https://www.sedigital.es/",
+        "llms-txt": "https://www.sedigital.es/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
