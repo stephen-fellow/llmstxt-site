@@ -104,6 +104,14 @@
         "llms-txt-tokens": 1654
     },
     {
+        "product": "Bucket",
+        "website": "https://bucket.co/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.bucket.co/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Clever Cloud",
         "website": "https://clever-cloud.com/",
         "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
@@ -232,6 +240,14 @@
         "llms-txt-tokens": 77790
     },
     {
+        "product": "fagaf.com",
+        "website": "https://www.fagaf.com/",
+        "llms-txt": "https://www.fagaf.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "FastHTML",
         "website": "https://fastht.ml/",
         "llms-txt": "https://docs.fastht.ml/llms.txt",
@@ -246,6 +262,14 @@
         "llms-txt-tokens": 4510,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Fireproof Database",
+        "website": "https://fireproof.storage/",
+        "llms-full-txt": "https://use-fireproof.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://use-fireproof.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Fireworks AI",
@@ -975,5 +999,19 @@
         "product": "AppZung",
         "website": "https://appzung.com",
         "llms-txt": "https://appzung.com/llms.txt"
+    },
+    {
+        "product": "Cloudflare Docs",
+        "website": "https://developers.cloudflare.com",
+        "llms-full-txt": "https://developers.cloudflare.com/llms-full.txt",
+        "llms-txt": "https://developers.cloudflare.com/llms.txt"
+    },
+    {
+        "product": "SeDigital",
+        "website": "https://www.sedigital.es/",
+        "llms-txt": "https://www.sedigital.es/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
