@@ -996,7 +996,11 @@
         "llms-txt": "https://handbook.exemplar.dev/llms.txt"
     },
     {
-
+        "product": "AppZung",
+        "website": "https://appzung.com",
+        "llms-txt": "https://appzung.com/llms.txt"
+    },
+    {
         "product": "Cloudflare Docs",
         "website": "https://developers.cloudflare.com",
         "llms-full-txt": "https://developers.cloudflare.com/llms-full.txt",
