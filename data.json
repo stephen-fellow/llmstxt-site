@@ -104,6 +104,14 @@
         "llms-txt-tokens": 1654
     },
     {
+        "product": "Bucket",
+        "website": "https://bucket.co/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.bucket.co/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Clever Cloud",
         "website": "https://clever-cloud.com/",
         "llms-txt": "https://www.clever-cloud.com/developers/llms.txt",
