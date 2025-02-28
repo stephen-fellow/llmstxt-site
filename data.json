@@ -1,5 +1,21 @@
 [
    {
+        "product": "Bika.ai",
+        "website": "https://bika.ai/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://bika.ai/llms.txt",
+        "llms-txt-tokens": 541
+   },
+   {
+        "product": "Azumuta",
+        "website": "https://www.azumuta.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.azumuta.com/llms.txt",
+        "llms-txt-tokens": ""
+    },
+    {
         "product": "WordLift",
         "website": "https://wordlift.io/",
         "llms-full-txt": "",
@@ -94,6 +110,14 @@
         "llms-full-txt-tokens": 22961,
         "llms-txt": "https://docs.basehub.com/llms.txt",
         "llms-txt-tokens": 1654
+    },
+    {
+        "product": "Bucket",
+        "website": "https://bucket.co/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.bucket.co/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Clever Cloud",
@@ -224,6 +248,14 @@
         "llms-txt-tokens": 77790
     },
     {
+        "product": "fagaf.com",
+        "website": "https://www.fagaf.com/",
+        "llms-txt": "https://www.fagaf.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "FastHTML",
         "website": "https://fastht.ml/",
         "llms-txt": "https://docs.fastht.ml/llms.txt",
@@ -238,6 +270,14 @@
         "llms-txt-tokens": 4510,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Fireproof Database",
+        "website": "https://fireproof.storage/",
+        "llms-full-txt": "https://use-fireproof.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://use-fireproof.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Fireworks AI",
@@ -392,6 +432,14 @@
         "llms-txt-tokens": 1921
     },
     {
+        "product": "Jazz",
+        "website": "https://jazz.tools/",
+        "llms-full-txt": "https://jazz.tools/llms-full.txt",
+        "llms-full-txt-tokens": 32297,
+        "llms-txt": "https://jazz.tools/llms.txt",
+        "llms-txt-tokens": 2856
+    },
+    {
         "product": "Lago",
         "website": "https://getlago.com/",
         "llms-full-txt": "https://getlago.com/docs/llms-full.txt",
@@ -414,6 +462,22 @@
         "llms-txt-tokens": 8544,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "litdb",
+        "website": "https://litdb.dev/",
+        "llms-full-txt": "https://litdb.dev/llms-full.txt",
+        "llms-full-txt-tokens": 12529,
+        "llms-txt": "https://litdb.dev/llms.txt",
+        "llms-txt-tokens": 647
+    },
+    {
+        "product": "Liveblocks",
+        "website": "https://liveblocks.io/",
+        "llms-full-txt": "https://liveblocks.io/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://liveblocks.io/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "llms.txt",
@@ -446,6 +510,14 @@
         "llms-full-txt-tokens": 1602828,
         "llms-txt": "https://docs.mangopay.com/llms.txt",
         "llms-txt-tokens": 9955
+    },
+    {
+        "product": "Meilisearch",
+        "website": "https://www.meilisearch.com/",
+        "llms-full-txt": "https://www.meilisearch.com/llms-full.txt",
+        "llms-full-txt-tokens": "",
+        "llms-txt": "https://www.meilisearch.com/llms.txt",
+        "llms-txt-tokens": ""
     },
     {
         "product": "MeshConnect",
@@ -624,6 +696,14 @@
         "llms-txt-tokens": 523
     },
     {
+        "product": "ServiceStack",
+        "website": "https://docs.servicestack.net/",
+        "llms-full-txt": "https://docs.servicestack.net/llms-full.txt",
+        "llms-full-txt-tokens": 1081008,
+        "llms-txt": "https://docs.servicestack.net/llms.txt",
+        "llms-txt-tokens": 15977
+    },
+    {
         "product": "Sherlock Domains",
         "website": "https://sherlockdomains.com/",
         "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
@@ -751,12 +831,12 @@
         "llms-txt": "https://upstash.com/docs/llms.txt",
         "llms-txt-tokens": 24181
     },
-    { 
-        "product": "Upsun", 
-        "website": "https://docs.upsun.com/", 
-        "llms-full-txt": "https://docs.upsun.com/llms-full.txt", 
+    {
+        "product": "Upsun",
+        "website": "https://docs.upsun.com/",
+        "llms-full-txt": "https://docs.upsun.com/llms-full.txt",
         "llms-full-txt-tokens": 528795,
-        "llms-txt": "https://docs.upsun.com/llms.txt", 
+        "llms-txt": "https://docs.upsun.com/llms.txt",
         "llms-txt-tokens": 24430
     },
     {
@@ -840,6 +920,13 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "WXT",
+        "website": "https://wxt.dev",
+        "llms-txt": "https://wxt.dev/knowledge/docs.txt",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "TheirStack",
         "website": "https://theirstack.com",
         "llms-full-txt": "https://theirstack.com/docs/llms-full.txt",
@@ -880,7 +967,6 @@
         "llms-txt-tokens": 598
     },
     {
-
         "product": "Medusa",
         "website": "https://docs.medusajs.com",
         "llms-full-txt": "https://docs.medusajs.com/llms-full.txt",
@@ -903,7 +989,7 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    },    
+    },
     {
         "product": "ZenML",
         "website": "https://www.zenml.io/",
@@ -915,7 +1001,68 @@
         "website": "https://www.raycast.com/",
         "llms-full-txt": "https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt",
         "llms-full-txt-tokens": 140626,
-        "llms-txt": "",
+        "llms-txt": "https://developers.raycast.com/llms.txt",
+        "llms-txt-tokens": 2266,
+    },
+    {
+        "product": "Agent Domain",
+        "website": "https://www.agentdomain.xyz/",
+        "llms-full-txt": "https://www.agentdomain.xyz/llms-full.txt",
+        "llms-full-txt-tokens": 763,
+        "llms-txt": "https://www.agentdomain.xyz/llms.txt",
+        "llms-txt-tokens": 329
+    },
+    {
+        "product": "Pics.io",
+        "website": "https://pics.io/",
+        "llms-txt": "https://blog.pics.io/static/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Exemplar's AI Engineer's Handbook",
+        "website": "https://handbook.exemplar.dev",
+        "llms-full-txt": "https://handbook.exemplar.dev/llms-full.txt",
+        "llms-txt": "https://handbook.exemplar.dev/llms.txt"
+    },
+    {
+        "product": "East Agile",
+        "website": "https://www.eastagile.com",
+        "llms-txt": "https://www.eastagile.com/llms.txt",
+        "llms-txt-tokens": 919,    
+    },
+    {
+        "product": "Web3 Jobs",
+        "website": "https://web3.career",
+        "llms-txt": "https://web3.career/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "DataCamp",
+        "website": "https://www.datacamp.com",
+        "llms-txt": "https://www.datacamp.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
+        "product": "AppZung",
+        "website": "https://appzung.com",
+        "llms-txt": "https://appzung.com/llms.txt"
+    },
+    {
+        "product": "Cloudflare Docs",
+        "website": "https://developers.cloudflare.com",
+        "llms-full-txt": "https://developers.cloudflare.com/llms-full.txt",
+        "llms-txt": "https://developers.cloudflare.com/llms.txt"
+    },
+    {
+        "product": "SeDigital",
+        "website": "https://www.sedigital.es/",
+        "llms-txt": "https://www.sedigital.es/llms.txt",
         "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
