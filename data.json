@@ -1022,7 +1022,7 @@
         "product": "East Agile",
         "website": "https://www.eastagile.com",
         "llms-txt": "https://www.eastagile.com/llms.txt",
-        "llms-txt-tokens": 919,    
+        "llms-txt-tokens": 919
     },
     {
         "product": "Web3 Jobs",
@@ -1041,7 +1041,10 @@
     {
         "product": "AppZung",
         "website": "https://appzung.com",
-        "llms-txt": "https://appzung.com/llms.txt"
+        "llms-txt": "https://appzung.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Cloudflare Docs",
