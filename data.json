@@ -1059,5 +1059,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "McGinnis,Will",
+        "website": "https://www.mcginniscommawill.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.mcginniscommawill.com/llms.txt",
+        "llms-txt-tokens": null
     }
 ]
