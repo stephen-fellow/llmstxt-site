@@ -1053,7 +1053,7 @@
         "llms-txt": "https://developers.cloudflare.com/llms.txt"
     },
     {
-        "product": "Stripe Docs",
+        "product": "Stripe docs",
         "website": "https://docs.stripe.com",
         "llms-full-txt": "",
         "llms-txt": "https://docs.stripe.com/llms.txt"
