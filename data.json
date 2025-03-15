@@ -480,6 +480,14 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "LiveCodes",
+        "website": "https://livecodes.io/",
+        "llms-full-txt": "https://livecodes.io/docs/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://livecodes.io/docs/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "llms.txt",
         "website": "https://llmstxt.org/",
         "llms-txt": "https://llmstxt.org/llms.txt",
