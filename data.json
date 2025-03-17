@@ -552,6 +552,14 @@
         "llms-txt-tokens": 2098
     },
     {
+        "product": "Muspi Merol",
+        "website": "https://muspimerol.site",
+        "llms-txt": "https://muspimerol.site/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "https://muspimerol.site/llms-full.txt",
+        "llms-full-txt-tokens": ""
+    },
+    {
         "product": "Mystery-o-matic",
         "website": "https://mystery-o-matic.com/",
         "llms-txt": "https://mystery-o-matic.com/llms.txt",
