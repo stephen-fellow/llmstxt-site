@@ -496,6 +496,14 @@
         "llms-txt-tokens": 2735
     },
     {
+        "product": "Longbridge OpenAPI",
+        "website": "https://open.longportapp.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://open.longportapp.com/llms.txt",
+        "llms-txt-tokens": 2492
+    },
+    {
         "product": "LuxAlgo",
         "website": "https://luxalgo.com/",
         "llms-full-txt": "https://docs.luxalgo.com/llms-full.txt",
