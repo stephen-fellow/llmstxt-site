@@ -584,6 +584,14 @@
         "llms-txt-tokens": 5989
     },
     {
+        "product": "Parseable",
+        "website": "https://www.parseable.com/",
+        "llms-full-txt": "https://www.parseable.com/llm-text/llms.txt",
+        "llms-full-txt-tokens": "",
+        "llms-txt": "https://www.parseable.com/llm-text",
+        "llms-txt-tokens": ""
+    },
+    {
         "product": "Perplexity",
         "website": "https://perplexity.ai/",
         "llms-full-txt": "https://docs.perplexity.ai/llms-full.txt",
