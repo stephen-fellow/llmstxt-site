@@ -1,5 +1,13 @@
 [
    {
+       "product": "Herd",
+       "website": "https://herd.garden/",
+       "llms-txt": "https://herd.garden/llms.txt",
+       "llms-txt-tokens": 18635
+       "llms-full-txt": "",
+       "llms-full-txt-tokens": null,
+   },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
