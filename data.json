@@ -1,5 +1,13 @@
 [
    {
+        "product": "Cosmic",
+        "website": "https://www.cosmicjs.com",
+        "llms-txt": "https://www.cosmicjs.com/docs/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
