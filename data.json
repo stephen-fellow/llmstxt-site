@@ -1059,5 +1059,11 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    }
+    },
+    {
+        "product": "Val Town",
+        "website": "https://docs.val.town/",
+        "llms-full-txt": "https://docs.val.town/llms-full.txt",
+        "llms-txt": "https://docs.val.town/llms.txt"
+    },
 ]
