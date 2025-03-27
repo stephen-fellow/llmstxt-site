@@ -1059,5 +1059,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Goldsky",
+        "website": "https://goldsky.com",
+        "llms-txt": "https://docs.goldsky.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://docs.goldsky.com/llms-full.txt",
+        "llms-full-txt-tokens": null
     }
 ]
