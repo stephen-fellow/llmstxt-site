@@ -1,5 +1,13 @@
 [
    {
+        "product": "PaperGraderPro",
+        "website": "https:/papergraderpro.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https:/papergraderpro.com/llms.txt",
+        "llms-txt-tokens": 353
+   },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
