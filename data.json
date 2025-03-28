@@ -680,6 +680,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Runroom",
+        "website": "https://www.runroom.com/",
+        "llms-txt": "https://www.runroom.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Salesbricks",
         "website": "https://salesbricks.com/",
         "llms-full-txt": "https://docs.salesbricks.com/llms-full.txt",
