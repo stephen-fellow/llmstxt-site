@@ -1059,5 +1059,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "daisyUI",
+        "website": "https://daisyui.com/",
+        "llms-txt": "https://daisyui.com/llms.txt",
+        "llms-txt-tokens": 13041,
+        "llms-full-txt": null,
+        "llms-full-txt-tokens": null
     }
 ]
