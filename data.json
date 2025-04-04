@@ -1059,5 +1059,14 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "WE IN STYLE",
+        "website": "https://we-in-style.com/",
+        "llms-txt": "https://we-in-style.com/llms.txt",
+        "llms-txt-tokens": 4986,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
+   
 ]
