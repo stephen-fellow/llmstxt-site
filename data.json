@@ -1,5 +1,13 @@
 [
    {
+        "product": "Himalayas",
+        "website": "https://himalayas.app/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://himalayas.app/llms.txt",
+        "llms-txt-tokens": 
+   },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
