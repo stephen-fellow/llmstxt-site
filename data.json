@@ -1090,5 +1090,13 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    }  
+    },
+    {
+      "product": "AgentQL",
+      "website": "https://agentql.com/",
+      "llms-txt": "https://docs.agentql.com/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
+      "llms-full-txt-tokens": 60771
+    }
 ]
