@@ -24,6 +24,14 @@
         "llms-full-txt-tokens": null
     },
    {
+       "product": "Herd",
+       "website": "https://herd.garden/",
+       "llms-txt": "https://herd.garden/llms.txt",
+       "llms-txt-tokens": 7305
+       "llms-full-txt": "https://herd.garden/llms-full.txt",
+       "llms-full-txt-tokens": 35206,
+   },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
