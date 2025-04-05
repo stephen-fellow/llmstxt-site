@@ -35,8 +35,10 @@ def calculate_tokens(product: Product, product_dir: str):
 
             except requests.RequestException as e:
                 print(f"Error downloading {filename} for {product_name}: {e}")
+                raise e
             except Exception as e:
                 print(f"Error encoding {filename}: {e}")
+                raise e
 
     # Create combined file with all content
     if file_contents:
