@@ -1141,6 +1141,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Toriut.com",
+        "website": "https://toriut.com/",
+        "llms-txt": "https://toriut.com/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "McGinnis,Will",
         "website": "https://www.mcginniscommawill.com/",
         "llms-full-txt": "",
