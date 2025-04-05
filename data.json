@@ -1075,6 +1075,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Mux",
+        "website": "https://www.mux.com/",
+        "llms-txt": "https://www.mux.com/llms.txt",
+        "llms-full-txt": "https://www.mux.com/llms-full.txt",
+    },
+    {
         "product": "OpenAlternative",
         "website": "https://openalternative.co",
         "llms-txt": "https://openalternative.co/llms.txt",
