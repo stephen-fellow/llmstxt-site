@@ -1091,6 +1091,14 @@
         "llms-full-txt-tokens": null
     },
     {
+       "product": "SankeyDiagram.net",
+       "website": "https://sankeydiagram.net/",
+       "llms-full-txt": "",
+       "llms-full-txt-tokens": null,
+       "llms-txt": "https://sankeydiagram.net/llms.txt",
+       "llms-txt-tokens": null
+   },
+   {
         "product": "Prisma",
         "website": "https://prisma.io",
         "llms-full-txt": "https://prisma.io/llms-full.txt",
