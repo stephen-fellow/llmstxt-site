@@ -712,6 +712,14 @@
         "llms-txt-tokens": 200
     },
     {
+        "product": "Sigtech",
+        "website": "https://sigtech.com",
+        "llms-txt": "https://sigtech.com/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Smartcar",
         "website": "https://smartcar.com/",
         "llms-full-txt": "https://smartcar.com/docs/llms-full.txt",
