@@ -26,6 +26,11 @@ print("Processing the products:\n\n")
 # Get list of existing product directories
 new_products = get_new_products(valid_products, LLMSTXT_FILES_PATH)
 
+products_jsonl_path = os.path.join(RUN_ASSETS_PATH, "products.jsonl")
+redirects_jsonl_path = os.path.join(RUN_ASSETS_PATH, "redirects.jsonl")
+status_path = os.path.join(RUN_ASSETS_PATH, "status.jsonl")
+error_path = os.path.join(RUN_ASSETS_PATH, "error.jsonl")
+
 # Loop through each company
 for _p in tqdm(new_products):
     product_name = _p.product
@@ -41,28 +46,28 @@ for _p in tqdm(new_products):
         _p = calculate_tokens(_p, product_dir)
         product_redirects = create_product_redirects(_p)
 
-        # Append to products.jsonl
-        products_jsonl_path = os.path.join(RUN_ASSETS_PATH, "products.jsonl")
+        # Append to products.jsonl        
         with open(products_jsonl_path, "a", encoding="utf-8") as f:
             json.dump(_p.to_json(), f)
             f.write("\n")
 
-        # Append to redirects.jsonl
-        redirects_jsonl_path = os.path.join(RUN_ASSETS_PATH, "redirects.jsonl")
+        # Append to redirects.jsonl        
         with open(redirects_jsonl_path, "a", encoding="utf-8") as f:
             for redirect in product_redirects:
                 json.dump(redirect.to_json(), f)
                 f.write("\n")
 
-        # Update status.json
-        status_path = os.path.join(RUN_ASSETS_PATH, "status.jsonl")
+        # Update status.jsonl        
         status = {"product": product_name, "status": "done"}
-
         with open(status_path, "a", encoding="utf-8") as f:
             json.dump(status, f)
             f.write("\n")
     except Exception as e:
         print(f"Error preparing data for: {product_name}")
+        error = {"product": product_name, "status": "error", "error": str(e)}
+        with open(error_path, "a", encoding="utf-8") as f:
+            json.dump(error, f)
+            f.write("\n")
         # Delete product folder if it exists to clean up any partial data
         if os.path.exists(product_dir):
             shutil.rmtree(product_dir)

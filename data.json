@@ -33,10 +33,10 @@
    },
    {
         "product": "PaperGraderPro",
-        "website": "https:/papergraderpro.com/",
+        "website": "https://papergraderpro.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
-        "llms-txt": "https:/papergraderpro.com/llms.txt",
+        "llms-txt": "https://papergraderpro.com/llms.txt",
         "llms-txt-tokens": 353
    },
    {
@@ -450,8 +450,8 @@
     {
         "product": "Inkeep",
         "website": "https://inkeep.com/",
-        "llms-full-txt": "https://docs.inkeep.com/llms-full.txt",
-        "llms-full-txt-tokens": 77941,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
         "llms-txt": "https://docs.inkeep.com/llms.txt",
         "llms-txt-tokens": 3229
     },
@@ -646,10 +646,10 @@
     {
         "product": "Navi Language",
         "website": "https://navi-lang.org/",
+        "llms-full-txt": "https://navi-lang.org/llms-full.txt",
+        "llms-full-txt-tokens": 88952,
         "llms-txt": "https://navi-lang.org/llms.txt",
-        "llms-txt-tokens": 1697,
-        "llms-txt": "https://navi-lang.org/llms-full.txt",
-        "llms-full-txt-tokens": 88952
+        "llms-txt-tokens": 1697
     },
     {
          "product": "Needle Engine",

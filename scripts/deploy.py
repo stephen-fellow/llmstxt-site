@@ -2,8 +2,8 @@ import os
 import json
 from utils.contants import (
     PRODUCTS_JSONL_PATH,
-    LIB_PATH,
     REDIRECTS_JSONL_PATH,
+    LIB_PATH,
     ROOT_PATH,
 )
 
