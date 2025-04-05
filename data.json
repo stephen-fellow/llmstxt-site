@@ -1211,6 +1211,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Val Town",
+        "website": "https://docs.val.town/",
+        "llms-full-txt": "https://docs.val.town/llms-full.txt",
+        "llms-txt": "https://docs.val.town/llms.txt"
+    },
+    {
         "product": "AI Scribbles",
         "website": "https://www.aiscribbles.com/",
         "llms-txt": "https://www.aiscribbles.com/llms.txt",
