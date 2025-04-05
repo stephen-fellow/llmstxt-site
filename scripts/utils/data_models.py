@@ -6,8 +6,8 @@ from typing import Optional
 class Product:
     product: str
     website: str
-    llms_txt: Optional[str] = None
-    llms_full_txt: Optional[str] = None
+    llms_txt: Optional[str] = ""
+    llms_full_txt: Optional[str] = ""
     llms_txt_tokens: Optional[int] = None
     llms_full_txt_tokens: Optional[int] = None
 
