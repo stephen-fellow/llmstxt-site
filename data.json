@@ -488,6 +488,14 @@
         "llms-full-txt-tokens": 8831
     },
     {
+        "product": "LambdaTest",
+        "website": "https://www.lambdatest.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.lambdatest.com/llms.txt",
+        "llms-txt-tokens": 5024
+    },
+    {
         "product": "Langfuse",
         "website": "https://langfuse.com/",
         "llms-txt": "https://langfuse.com/llms.txt",
