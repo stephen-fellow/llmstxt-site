@@ -576,6 +576,14 @@
         "llms-full-txt-tokens": null
     },
     {
+         "product": "Needle Engine",
+         "website": "https://needle.tools/",
+         "llms-full-txt": "https://cloud.needle.tools/llms-full.txt",
+         "llms-full-txt-tokens": 93201,
+         "llms-txt": "https://cloud.needle.tools/llms.txt",
+         "llms-txt-tokens": 819
+    },
+    {
         "product": "OpenPhone",
         "website": "https://openphone.com/",
         "llms-txt": "https://www.openphone.com/docs/llms.txt",
