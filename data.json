@@ -1189,6 +1189,12 @@
         "llms-full-txt-tokens": null
     },
     {
+       "product": "Wheelhouse DMG",
+       "website": "https://www.wheelhousedmg.com/",
+       "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
+       "llms-txt-tokens": 2101
+    },
+    {
         "product": "Giles' Blog",
         "website": "https://www.gilesthomas.com/",
         "llms-txt": "https://www.gilesthomas.com/llms.txt",
