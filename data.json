@@ -1189,6 +1189,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "AI Scribbles",
+        "website": "https://www.aiscribbles.com/",
+        "llms-txt": "https://www.aiscribbles.com/llms.txt",
+        "llms-full-txt": ""
+    },
+    {
        "product": "Wheelhouse DMG",
        "website": "https://www.wheelhousedmg.com/",
        "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
