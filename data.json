@@ -1061,6 +1061,13 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "OpenAlternative",
+        "website": "https://openalternative.co",
+        "llms-txt": "https://openalternative.co/llms.txt",
+        "llms-txt-tokens": 10195,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
         "product": "WE IN STYLE",
         "website": "https://we-in-style.com/",
         "llms-txt": "https://we-in-style.com/llms.txt",
@@ -1083,6 +1090,5 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
-    }
-   
+    }  
 ]
