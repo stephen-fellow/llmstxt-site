@@ -1,5 +1,13 @@
 [
    {
+        "product": "Himalayas",
+        "website": "https://himalayas.app/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://himalayas.app/llms.txt",
+        "llms-txt-tokens": 
+   },
+   {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
@@ -680,6 +688,14 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Runroom",
+        "website": "https://www.runroom.com/",
+        "llms-txt": "https://www.runroom.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Salesbricks",
         "website": "https://salesbricks.com/",
         "llms-full-txt": "https://docs.salesbricks.com/llms-full.txt",
@@ -712,6 +728,14 @@
         "llms-txt-tokens": 200
     },
     {
+        "product": "Sigtech",
+        "website": "https://sigtech.com",
+        "llms-txt": "https://sigtech.com/llms.txt",
+        "llms-txt-tokens": "",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "Smartcar",
         "website": "https://smartcar.com/",
         "llms-full-txt": "https://smartcar.com/docs/llms-full.txt",
@@ -733,6 +757,14 @@
         "llms-txt": "https://www.speakeasy.com/llms.txt",
         "llms-txt-tokens": 634,
         "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+   {
+        "product": "Starwind UI",
+        "website": "https://starwind.dev/",
+        "llms-txt": "https://starwind.dev/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://starwind.dev/llms-full.txt",
         "llms-full-txt-tokens": null
     },
     {
@@ -782,6 +814,12 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.trailofbits.com/llms.txt",
         "llms-txt-tokens": null
+    },
+    {
+        "product": "TrackVia",
+        "website": "https://trackvia.com",
+        "llms-txt": "https://trackvia.com/llms.txt",
+        "llms-txt-tokens": 199
     },
     {
         "product": "Trigger.dev",
@@ -995,6 +1033,14 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
+    },    
+    {
+        "product": "Raycast",
+        "website": "https://www.raycast.com/",
+        "llms-full-txt": "https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt",
+        "llms-full-txt-tokens": 140626,
+        "llms-txt": "https://developers.raycast.com/llms.txt",
+        "llms-txt-tokens": 2266,
     },
     {
         "product": "Agent Domain",
@@ -1060,12 +1106,95 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-   {
+    {
         "product": "Sourcegraph",
         "website": "https://sourcegraph.com/docs",
         "llms-txt": "https://sourcegraph.com/docs/llms.txt",
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Transloadit",
+        "website": "https://transloadit.com/",
+        "llms-txt": "https://transloadit.com/llms.txt",
+        "llms-txt-tokens": 5000,
+        "llms-full-txt": "https://transloadit.com/llms-full.txt",
+        "llms-full-txt-tokens": 82000
+    },
+    {
+       "product": "SankeyDiagram.net",
+       "website": "https://sankeydiagram.net/",
+       "llms-full-txt": "",
+       "llms-full-txt-tokens": null,
+       "llms-txt": "https://sankeydiagram.net/llms.txt",
+       "llms-txt-tokens": null
+   },
+   {
+        "product": "Prisma",
+        "website": "https://prisma.io",
+        "llms-full-txt": "https://prisma.io/llms-full.txt",
+        "llms-txt": "https://prisma.io/llms.txt"
+    },
+    {
+        "product": "Bitcoin.com",
+        "website": "https://www.bitcoin.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.bitcoin.com/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
+        "product": "daisyUI",
+        "website": "https://daisyui.com/",
+        "llms-txt": "https://daisyui.com/llms.txt",
+        "llms-txt-tokens": 13041,
+        "llms-full-txt": null,
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Mux",
+        "website": "https://www.mux.com/",
+        "llms-txt": "https://www.mux.com/llms.txt",
+        "llms-full-txt": "https://www.mux.com/llms-full.txt"
+    },
+    {
+        "product": "OpenAlternative",
+        "website": "https://openalternative.co",
+        "llms-txt": "https://openalternative.co/llms.txt",
+        "llms-txt-tokens": 10195,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+        "product": "WE IN STYLE",
+        "website": "https://we-in-style.com/",
+        "llms-txt": "https://we-in-style.com/llms.txt",
+        "llms-txt-tokens": 4986,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Stripe",
+        "website": "https://docs.stripe.com",
+        "llms-txt": "https://docs.stripe.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "DevHub",
+        "website": "https://www.devhub.com/",
+        "llms-txt": "https://api-docs.devhub.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+      "product": "AgentQL",
+      "website": "https://agentql.com/",
+      "llms-txt": "https://docs.agentql.com/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
+      "llms-full-txt-tokens": 60771
     }
 ]
