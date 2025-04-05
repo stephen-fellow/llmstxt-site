@@ -1091,6 +1091,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Prisma",
+        "website": "https://prisma.io",
+        "llms-full-txt": "https://prisma.io/llms-full.txt",
+        "llms-txt": "https://prisma.io/llms.txt"
+    },
+    {
         "product": "Bitcoin.com",
         "website": "https://www.bitcoin.com/",
         "llms-full-txt": "",
