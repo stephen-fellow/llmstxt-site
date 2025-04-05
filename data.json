@@ -1061,11 +1061,19 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Stripe",
+        "website": "https://docs.stripe.com",
+        "llms-txt": "https://docs.stripe.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
         "product": "DevHub",
         "website": "https://www.devhub.com/",
         "llms-txt": "https://api-docs.devhub.com/llms.txt",
-        "llms-txt-tokens": "",
+        "llms-txt-tokens": null,
         "llms-full-txt": "",
-        "llms-full-txt-tokens": ""
+        "llms-full-txt-tokens": null
     }
 ]
