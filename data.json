@@ -724,6 +724,14 @@
         "llms-txt-tokens": 3755
     },
     {
+      "product": "Reown",
+      "website": "https://docs.reown.com",
+      "llms-full-txt": "https://docs.reown.com/llms-full.txt",
+      "llms-full-txt-tokens": 403077,
+      "llms-txt": "https://docs.reown.com/llms.txt",
+      "llms-txt-tokens": 16581
+    },
+    {
         "product": "Roc",
         "website": "https://roc-lang.org/",
         "llms-txt": "https://www.roc-lang.org/llms.txt",
