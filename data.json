@@ -488,6 +488,12 @@
         "llms-txt-tokens": 647
     },
     {
+        "product": "LikeC4",
+        "website": "https://likec4.dev/",
+        "llms-full-txt": "https://likec4.dev/llms-full.txt",
+        "llms-txt": "https://likec4.dev/llms.txt"
+    },
+    {
         "product": "Liveblocks",
         "website": "https://liveblocks.io/",
         "llms-full-txt": "https://liveblocks.io/llms-full.txt",
