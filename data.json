@@ -13,7 +13,7 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://himalayas.app/llms.txt",
-        "llms-txt-tokens": 
+        "llms-txt-tokens": null
    },
    {
         "product": "Cosmic",
@@ -27,9 +27,9 @@
        "product": "Herd",
        "website": "https://herd.garden/",
        "llms-txt": "https://herd.garden/llms.txt",
-       "llms-txt-tokens": 7305
+       "llms-txt-tokens": 7305,
        "llms-full-txt": "https://herd.garden/llms-full.txt",
-       "llms-full-txt-tokens": 35206,
+       "llms-full-txt-tokens": 35206
    },
    {
         "product": "PaperGraderPro",
@@ -1154,7 +1154,7 @@
         "llms-full-txt": "https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt",
         "llms-full-txt-tokens": 140626,
         "llms-txt": "https://developers.raycast.com/llms.txt",
-        "llms-txt-tokens": 2266,
+        "llms-txt-tokens": 2266
     },
     {
         "product": "Agent Domain",
@@ -1336,6 +1336,7 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
+    {
         "product": "WE IN STYLE",
         "website": "https://we-in-style.com/",
         "llms-txt": "https://we-in-style.com/llms.txt",
