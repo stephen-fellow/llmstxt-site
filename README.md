@@ -28,7 +28,7 @@ We welcome contributions to this repository to expand the collection of /llms.tx
 
 You can leave the tokens fields empty: they'll be calculated automatically when your PR is merged.
 
-If you don't have a full-txt file, you can leave the `llms-full-txt` and `llms-full-txt-tokens` fields empty.
+If you don't have a full-txt file, you can leave the `llms-full-txt` field empty.
 
 Here is an example entry:
 
@@ -38,9 +38,7 @@ Here is an example entry:
     "product": "Anthropic",
     "website": "https://anthropic.com/",
     "llms-full-txt": "https://docs.anthropic.com/llms-full.txt",
-    "llms-full-txt-tokens": 313919,
-    "llms-txt": "https://docs.anthropic.com/llms.txt",
-    "llms-txt-tokens": 159282
+    "llms-txt": "https://docs.anthropic.com/llms.txt"
 },
 // ...
 ```

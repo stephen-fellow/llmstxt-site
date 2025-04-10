@@ -49,7 +49,7 @@ export default function ListTable<TData, TValue>({
     });
     return (
         <div className="w-full flex flex-col justify-center px-2 sm:px-5 md:px-10 lg:px-20 pt-5">
-            <div className="mx-auto max-w-7xl w-full flex flex-row items-center justify-start py-4">
+            <div className="mx-auto w-full flex flex-row items-center justify-start py-4">
                 <Search className="w-5 h-5 mr-3" />
                 <Input
                     placeholder="Search products..."
@@ -66,7 +66,7 @@ export default function ListTable<TData, TValue>({
                     className="max-w-md"
                 />
             </div>
-            <div className="mx-auto max-w-7xl w-full overflow-x-auto border rounded-lg">
+            <div className="mx-auto w-full overflow-x-auto border rounded-lg">
                 <Table className="w-full">
                     <TableHeader className="bg-zinc-100">
                         {table.getHeaderGroups().map((headerGroup) => (
