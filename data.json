@@ -1,5 +1,11 @@
 [
     {
+        "product": "Pass App",
+        "website": "https://pass.app/",
+        "llms-full-txt": "https://pass.app/llms.txt",
+        "llms-txt-tokens": 926
+    },
+    {
         "product": "Bun",
         "website": "https://bun.sh/",
         "llms-full-txt": "",
@@ -1147,7 +1153,7 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    },    
+    },
     {
         "product": "Raycast",
         "website": "https://www.raycast.com/",
