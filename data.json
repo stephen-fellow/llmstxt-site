@@ -1368,4 +1368,10 @@
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
     }
+    {
+        "product": "Yoast",
+        "website": "https://yoast.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://yoast.com/llms.txt"
+    }
 ]
