@@ -374,6 +374,12 @@
         "llms-txt-tokens": 8620
     },
     {
+        "product": "Giselle",
+        "website": "https://giselles.ai/",
+        "llms-txt": "https://docs.giselles.ai/llms.txt",
+        "llms-full-txt": "https://docs.giselles.ai/llms-full.txt"
+    },
+    {
         "product": "General Translation",
         "website": "https://generaltranslation.com/",
         "llms-full-txt": "https://generaltranslation.com/llms-full.txt",
