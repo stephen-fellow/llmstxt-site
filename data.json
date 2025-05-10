@@ -1443,6 +1443,14 @@
       "llms-full-txt-tokens": 60771
     },
     {
+      "product": "LogLayer",
+      "website": "https://loglayer.dev/",
+      "llms-txt": "https://loglayer.dev/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+      "llms-full-txt-tokens": null
+    },
+    {
         "product": "Orma.digital",
         "website": "https://orma.digital/",
         "llms-full-txt": "",
