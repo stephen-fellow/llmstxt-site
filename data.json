@@ -360,6 +360,12 @@
         "llms-full-txt-tokens": null
     },
     {
+        "product": "Formwerk",
+        "website": "https://formwerk.dev/",
+        "llms-txt": "https://formwerk.dev/llms.txt",
+        "llms-full-txt": "https://formwerk.dev/llms-full.txt"
+    },
+    {
         "product": "Galileo",
         "website": "https://rungalileo.io/",
         "llms-full-txt": "https://docs.rungalileo.io/llms-full.txt",
@@ -372,6 +378,14 @@
         "website": "https://giselles.ai/",
         "llms-txt": "https://docs.giselles.ai/llms.txt",
         "llms-full-txt": "https://docs.giselles.ai/llms-full.txt"
+    },
+    {
+        "product": "General Translation",
+        "website": "https://generaltranslation.com/",
+        "llms-full-txt": "https://generaltranslation.com/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://generaltranslation.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Goody",
@@ -664,6 +678,14 @@
          "llms-full-txt-tokens": 93201,
          "llms-txt": "https://cloud.needle.tools/llms.txt",
          "llms-txt-tokens": 819
+    },
+    {
+        "product": "Neon",
+        "website": "https://neon.tech/home",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://neon.tech/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "OpenPhone",
@@ -1153,7 +1175,7 @@
         "website": "https://www.zenml.io/",
         "llms-full-txt": "https://www.zenml.io/llms-full.txt",
         "llms-txt": "https://www.zenml.io/llms.txt"
-    },    
+    },
     {
         "product": "Raycast",
         "website": "https://www.raycast.com/",
@@ -1231,6 +1253,14 @@
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
+    },
+    {
+        "product": "AI Direct Editor",
+        "website": "https://ai-direct-editor.com",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://ai-direct-editor.com/llms.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "Goldsky",
@@ -1373,5 +1403,19 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
+    },
+    {
+        "product": "Tidio",
+        "website": "https://www.tidio.com/",
+        "llms-full-txt": "https://www.tidio.com/llms-full.txt",
+        "llms-txt": "https://www.tidio.com/llms.txt"
+    },
+    {
+        "product": "QR Code Generator",
+        "website": "https://qrco.au/",
+        "llms-txt": "https://www.qrco.au/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
