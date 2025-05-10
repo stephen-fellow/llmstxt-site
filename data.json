@@ -629,7 +629,7 @@
     },
     {
         "product": "MotherDuck",
-        "website": "https://mintlify.com/",
+        "website": "https://motherduck.com/",
         "llms-full-txt": "https://motherduck.com/docs/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://motherduck.com/docs/llms.txt",
