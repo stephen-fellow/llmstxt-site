@@ -1437,6 +1437,12 @@
       "llms-full-txt-tokens": 60771
     },
     {
+        "product": "Orma.digital",
+        "website": "https://orma.digital/",
+        "llms-full-txt": "",
+        "llms-txt": "https://www.orma.digital/llms.txt"
+    },
+    {
         "product": "Dalfox",
         "website": "https://dalfox.hahwul.com",
         "llms-txt": "https://dalfox.hahwul.com/llms.txt",
