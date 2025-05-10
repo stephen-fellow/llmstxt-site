@@ -1368,14 +1368,12 @@
       "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
       "llms-full-txt-tokens": 60771
     },
-    // ...
-{
-    "product": "QR Code Generator",
-    "website": "https://qrco.au/",
-     "llms-txt-tokens": null,
-     "llms-full-txt": "",
-     "llms-full-txt-tokens": null
-     "llms-txt": "https://www.qrco.au/llms.txt"
-},
-// ...
+    {
+        "product": "QR Code Generator",
+        "website": "https://qrco.au/",
+        "llms-txt": "https://www.qrco.au/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null        
+    }
 ]
