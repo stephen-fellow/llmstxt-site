@@ -352,6 +352,14 @@
         "llms-txt-tokens": 3056
     },
     {
+        "product": "Firmly AI",
+        "website": "https://firmly.ai/",
+        "llms-full-txt": "https://docs.firmly.ai/llms-full.txt",
+        "llms-full-txt-tokens": 93678,
+        "llms-txt": "https://docs.firmly.ai/llms.txt",
+        "llms-txt-tokens": 3168
+    },
+    {
         "product": "Flatfile",
         "website": "https://flatfile.com/",
         "llms-full-txt": "https://flatfile.com/docs/llms-full.txt",
