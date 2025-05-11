@@ -1475,6 +1475,13 @@
       "llms-full-txt-tokens": 60771
     },
     {
+      "product": "Coolify",
+      "website": "https://coolify.io/",
+      "llms-txt": "https://coolify.io/docs/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+    },
+    {
       "product": "ApyHub",
       "website": "https://apyhub.com/",
       "llms-txt": "https://apyhub.com/llms.txt",
