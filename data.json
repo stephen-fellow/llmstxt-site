@@ -200,6 +200,14 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "Corgea",
+        "website": "https://corgea.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://docs.corgea.app/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "CrewAI",
         "website": "https://crewai.com/",
         "llms-full-txt": "https://docs.crewai.com/llms-full.txt",
@@ -350,6 +358,14 @@
         "llms-full-txt-tokens": 70623,
         "llms-txt": "https://docs.fireworks.ai/llms.txt",
         "llms-txt-tokens": 3056
+    },
+    {
+        "product": "Firmly AI",
+        "website": "https://firmly.ai/",
+        "llms-full-txt": "https://docs.firmly.ai/llms-full.txt",
+        "llms-full-txt-tokens": 93678,
+        "llms-txt": "https://docs.firmly.ai/llms.txt",
+        "llms-txt-tokens": 3168
     },
     {
         "product": "Flatfile",
@@ -892,6 +908,14 @@
         "llms-txt-tokens": 15977
     },
     {
+        "product": "SGNL.ai",
+        "website": "https://sgnl.ai",
+        "llms-full-text": "https://sgnl.ai/llms-full.txt",
+        "llms-full-txt-tokens": 1739,
+        "llms-txt": "https://sgnl.ai/llms.txt",
+        "llms-txt-tokens": 1069
+    },
+    {
         "product": "Sherlock Domains",
         "website": "https://sherlockdomains.com/",
         "llms-full-txt": "https://www.sherlockdomains.com/llms-full.txt",
@@ -970,6 +994,14 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.thecrawltool.com/llms.txt",
         "llms-txt-tokens": null
+    },
+    {
+        "product": "Thunder Compute",
+        "website": "https://thundercompute.com/",
+        "llms-full-txt": "https://thundercompute.com/docs/llms-full.txt",
+        "llms-full-txt-tokens": 8862,
+        "llms-txt": "https://thundercompute.com/docs/llms.txt",
+        "llms-txt-tokens": 748
     },
     {
         "product": "Tinybird",
@@ -1443,6 +1475,34 @@
       "llms-full-txt-tokens": 60771
     },
     {
+      "product": "Coolify",
+      "website": "https://coolify.io/",
+      "llms-txt": "https://coolify.io/docs/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+    },
+    {
+      "product": "ApyHub",
+      "website": "https://apyhub.com/",
+      "llms-txt": "https://apyhub.com/llms.txt",
+      "llms-full-txt": ""
+    },
+    {
+        "product": "Chainspect",
+        "website": "https://chainspect.app/",
+        "llms-txt": "https://chainspect.app/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+      "product": "Pass App",
+      "website": "https://pass.app/",
+      "llms-full-txt": "https://pass.app/llms.txt",
+      "llms-txt-tokens": 926,
+      "llms-txt": ""      
+    },
+    {
       "product": "SVGViewer.app",
       "website": "https://svgviewer.app/",
       "llms-txt": "https://svgviewer.app/llms.txt",
@@ -1501,12 +1561,20 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-  {
-            "product": "Tip.md",
+    {
+        "product": "Tip.md",
         "website": "https://www.tip.md/",
         "llms-full-txt": "https://www.tip.md/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.tip.md/llms.txt",
         "llms-txt-tokens": null
-  }
+    },
+    {
+      "product": "Adobe Experience Manager",
+      "website": "https://www.aem.live/",
+      "llms-txt": "https://www.aem.live/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "",
+      "llms-full-txt-tokens": null
+    }
 ]
