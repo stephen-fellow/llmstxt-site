@@ -1,5 +1,11 @@
 [
     {
+    "product": "Fellow Products",
+    "website": "https://fellowproducts.com/",
+    "llms-full-txt": "",
+    "llms-txt": "https://fellowproducts.com/apps/llmstxt/llms.txt"
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
